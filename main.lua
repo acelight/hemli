@@ -11,7 +11,7 @@ require 'header'
 Fs          = require 'lfs'
 
 Init        = require 'init'
-Assign      = require 'assign'
+Assign      = require 'assiDogn'
 Agent       = require 'agent'
 
 dofile 'call.lua'
